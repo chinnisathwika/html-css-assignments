@@ -1,0 +1,16 @@
+
+body{
+    background-color: lightskyblue;
+}
+h1
+{
+
+    text-align: center;
+}
+ul {
+        /* removes bullets */
+    padding: 0;
+    display: flex;
+    justify-content: center;  /* centers horizontally */
+    gap: 20px;                /* space between items */
+}
