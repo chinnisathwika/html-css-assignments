@@ -1,0 +1,16 @@
+
+img{
+    float: left;
+    width: 150px;
+    height: 150px;
+}
+h2{
+    text-align: justify;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
+.style{
+    color: red;
+ 
+}
